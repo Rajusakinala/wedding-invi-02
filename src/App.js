@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <div className="raju">
-        <ParticleBackground />
+        {/* <ParticleBackground /> */}
         {/* <ParticleBackground2 /> */}
         <div>
           {/* <h2>Wedding Invitation of SAKIANALA's Family</h2> */}
