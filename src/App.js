@@ -43,18 +43,7 @@ function App() {
                   </h5>
                   {/* </div> */}
                 </Grid>
-                <Grid item>
-                  {/* <img src="/set1/wedding gold text.png" alt="weds" />
-                   */}
-                  <div
-                    className="App-logo"
-                    style={{ display: "flex", alignItems: "center" }}
-                  >
-                    <h1>Srikanth</h1>
-                    <h1>WEDS</h1>
-                    <h1>Rajitha</h1>
-                  </div>
-                </Grid>
+
                 <Grid item>
                   {/* <div> */}
                   <img src="/set1/groom.jpg" alt="bride" />
