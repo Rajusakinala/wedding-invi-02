@@ -14,6 +14,10 @@ function App() {
   const { speak } = useSpeechSynthesis();
   const [value, onChange] = useState(new Date());
   useEffect(() => {
+    speak({
+      // text: "your heartly invited to the wedding of Rom And Unnusa",
+      text: "your heartly invited to the wedding of Sreekanth And Raadhika",
+    });
     // document.getElementById("adi").play();
     document.getElementById("vid").play();
   }, []);
@@ -241,6 +245,10 @@ function App() {
                 <source src="/set1/master.mp3" type="audio/mpeg" />
                 Your browser does not support the audio element.
               </audio>
+            </Grid>
+            <Grid item xs={12}>
+              <h5>Note: View in desktop</h5>
+              <h5>Made by Rajuparusharamulu</h5>
             </Grid>
           </Grid>
         </div>
