@@ -104,7 +104,7 @@ function App() {
                   <img src="/set1/groom.jpg" alt="bride" />
                   <h2>Groom: Srikanth Yadav</h2>
                   <h5>
-                    <span>D/o Kavati Laxmi and BandariKomuraiah</span>
+                    <span>D/o Kavati Laxmi and Bangari Komuraiah</span>
                   </h5>
                   {/* </div> */}
                 </Grid>
