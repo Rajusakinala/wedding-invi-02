@@ -157,7 +157,7 @@ function App() {
                 {/* <Grid item xs={12}> */}
                 <CalendarMonthIcon />
                 <h4 style={{ marginTop: "0px" }}>
-                  Date: <span>17rd mar 2023</span>
+                  Date: <span>17th mar 2023</span>
                   <span>Friday</span>
                 </h4>
                 {/* </Grid> */}
