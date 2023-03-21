@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wedding-invi-02/static/css/main.5cb43820.css",
+    "main.js": "/wedding-invi-02/static/js/main.e9d96106.js",
+    "static/js/787.ee1e7c51.chunk.js": "/wedding-invi-02/static/js/787.ee1e7c51.chunk.js",
+    "static/media/bg3.jpg": "/wedding-invi-02/static/media/bg3.904a63b8677b6c6d7812.jpg",
+    "index.html": "/wedding-invi-02/index.html",
+    "main.5cb43820.css.map": "/wedding-invi-02/static/css/main.5cb43820.css.map",
+    "main.e9d96106.js.map": "/wedding-invi-02/static/js/main.e9d96106.js.map",
+    "787.ee1e7c51.chunk.js.map": "/wedding-invi-02/static/js/787.ee1e7c51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb43820.css",
+    "static/js/main.e9d96106.js"
+  ]
+}
